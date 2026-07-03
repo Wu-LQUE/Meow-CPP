@@ -1,6 +1,6 @@
 # Meow Wu Obfuscator
 
-Vibe出来的生成的C++~~混淆~~工具。
+Vibe出来的C++~~混淆~~工具。
 
 ## 简介
 
